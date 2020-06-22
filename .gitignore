@@ -1,6 +1,8 @@
 # User Created
-credit-card-data/
+data/
 logs/
+*.csv
+*.zip
 
 # Jetbrains
 .idea
